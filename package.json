@@ -1,6 +1,6 @@
 {
   "name": "html-react-parser",
-  "version": "3.0.1",
+  "version": "1.0.0",
   "description": "HTML to React parser.",
   "author": "Mark <mark@remarkablemark.org>",
   "main": "index.js",
@@ -59,7 +59,7 @@
     "@typescript-eslint/parser": "5.61.0",
     "benchmark": "2.1.4",
     "dtslint": "4.2.1",
-    "eslint": "8.44.0",
+    "eslint": "8.43.0",
     "eslint-plugin-prettier": "4.2.1",
     "husky": "8.0.3",
     "jest": "28.1.3",
